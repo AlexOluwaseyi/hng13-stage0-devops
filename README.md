@@ -11,4 +11,4 @@ This task will test your ability to deploy a web server and manage a GitHub repo
 It’s designed to mimic real-world DevOps work you’ll encounter in production.
 
 ## Server IP Address
--- To be added later --
+18.212.99.106
